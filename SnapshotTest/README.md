@@ -1,0 +1,1 @@
+# 스냅샷 테스트 (Snapshot Test)
