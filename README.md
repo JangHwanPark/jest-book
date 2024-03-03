@@ -1,3 +1,3 @@
-# Jest 공부노트
+# Jest 학습 기록 노트
 
 Testing FrameWork
